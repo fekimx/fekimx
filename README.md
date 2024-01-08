@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fekimx
 - 👀 I’m interested in learning & teaching!
 - 🌱 I’m currently working on the Code Breaker project in my capstone project class.
-- 💞️ I’m looking to make it live on after the class!
 - 📫 How to reach me: fatmarabias@gmail.com 
 
 <!---
